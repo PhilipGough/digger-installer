@@ -26,7 +26,7 @@ deployments:
       image: "docker.io/aerogear/android-sdk:dev"
   - name: "nagios"
     containers:
-    - name: "nagios"
+    - name: "digger-nagios"
       image: "docker.io/aerogear/digger-nagios:dev"
 
 macos_user: jenkins
