@@ -24,7 +24,7 @@ deployments:
     containers:
     - name: "android-sdk"
       image: "docker.io/aerogear/android-sdk:dev"
-  - name: "nagios"
+  - name: "digger-nagios"
     containers:
     - name: "digger-nagios"
       image: "docker.io/aerogear/digger-nagios:dev"

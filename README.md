@@ -55,6 +55,10 @@ The playbook executes the following steps for you:
 - [Configures an OSX node](./provision-osx/README.md)
 - Installs Nagios and triggers checkes
 
+See the image below for an overview of the playbook and roles
+
+
+![architecture](images/architecture.png)
 
 ## License
 
