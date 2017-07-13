@@ -2,7 +2,7 @@
 galaxy_info:
   author: AeroGear
   company: AeroGear
-  description: "Role for deploying the AeroGear digger android-sdk pod"
+  description: "Role for configuring Jenkins AeroGear digger"
   license: "license (Apache 2)"
   min_ansible_version: "2.2.0"
   platforms:
@@ -12,7 +12,6 @@ galaxy_info:
         - 25
 
   galaxy_tags: []
-
 
 dependencies:
     - login
