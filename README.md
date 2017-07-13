@@ -53,6 +53,7 @@ The playbook executes the following steps for you:
 - Configures Jenkins
 - Installs AndroidSDK to a PV
 - [Configures an OSX node](./provision-osx/README.md)
+- Installs Nagios and triggers checkes
 
 
 ## License
